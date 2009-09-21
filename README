@@ -1,0 +1,6 @@
+This is a port of Flex Video Player by FX Components (http://www.fxcomponents.com/)
+
+An open source video player built with Flex.
+Extends mx.controls.VideoDisplay so it supports progressive download over HTTP, streaming from the Flash Media Server, and streaming from a Camera object.
+
+
